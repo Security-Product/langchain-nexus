@@ -17,6 +17,6 @@ setuptools.setup(
         "Programming Language :: Python :: 3",
         "Operating System :: OS Independent",
     ],
-    install_requires=['langchain', 'openai', 'zhipuai'],
+    install_requires=['langchain', 'openai', 'zhipuai', 'langchain-openai'],
     python_requires='>=3.10',
 )

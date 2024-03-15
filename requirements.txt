@@ -1,1 +1,4 @@
 langchain
+openai
+zhipuai
+langchain-openai
